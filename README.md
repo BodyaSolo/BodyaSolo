@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BodyaSolo
 - I’m interested in programming, electronics
-- I know HTML, CSS, JS, Node.JS, React.JS, Python
+- I know HTML, CSS, JS, Node.JS, React.JS.
 
 
 
