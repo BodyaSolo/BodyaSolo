@@ -11,6 +11,7 @@ I have a special interest in use of animation on the web. I particularly like wo
 ## 🛠 Technical Stack
 * HTML5, CSS3, SASS
 * JavaScript(ES6+), React.js, Node.js, MongoDB
+* JSX, Webpack, Babel
 * C++
 * Git
 
