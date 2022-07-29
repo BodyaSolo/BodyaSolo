@@ -1,7 +1,7 @@
 ## Hi, I'm Bohdan 👋
 I'm a Developer based in Kyiv ☀️.
 
-I describe myself as a passionate developer who loves coding and the web platform.
+I describe myself as a passionate developer who loves coding and web platform.
 
 I write standards based code that is semantic, accessible, search-engine friendly, easy to maintain, cross browser compatible, and performant.
 Building a future-proof and easy-to-maintain website is achieved by breaking down a web page into its smallest pieces, often called components, and building them in a way that exists outside the context of the design they first appear in. This allows for components that can be re-used in other areas of a website as it grows and makes the intention easier for other developers to understand and test.
