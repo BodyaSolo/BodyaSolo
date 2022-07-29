@@ -1,5 +1,5 @@
 ## Hi, I'm Bohdan 👋
-I'm a Engineer based in Kyiv ☀️.
+I'm a Developer based in Kyiv ☀️.
 
 I describe myself as a passionate developer who loves coding and the web platform.
 
